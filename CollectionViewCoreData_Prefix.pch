@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CollectionViewCoreData' target in the 'CollectionViewCoreData' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

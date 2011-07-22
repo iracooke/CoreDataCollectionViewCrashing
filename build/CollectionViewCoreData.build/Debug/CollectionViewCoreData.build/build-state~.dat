@@ -1,0 +1,257 @@
+TCollectionViewCoreData
+v7
+r0
+t332981720.964499
+cCheck dependencies
+cProcessInfoPlistFile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Info.plist CollectionViewCoreData-Info.plist
+cCopyStringsFile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch.gch CollectionViewCoreData_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/CollectionViewCoreData_DataModel.mom /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel
+cCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/main.o /Users/iracooke/Sources/CollectionViewCoreData/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData_AppDelegate.o /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/ItemMO.o /Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData normal x86_64
+cTouch /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC40376000000000000043A
+t1287914358
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.h
+c000000004E28ADA70000000000000346
+t1311288743
+s838
+i<Cocoa/Cocoa.h>
+
+N/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m
+c000000004E28ADEF00000000000021A0
+t1311288815
+s8608
+i"CollectionViewCoreData_AppDelegate.h"
+i"ItemMO.h"
+
+N/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel
+c000000004E28ADE50000000000000088
+t1311288805
+s136
+
+N/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_Prefix.pch
+c000000004E28AA4400000000000000AF
+t1311287876
+s175
+i<Cocoa/Cocoa.h>
+
+N/Users/iracooke/Sources/CollectionViewCoreData/English.lproj/InfoPlist.strings
+c000000004E28AA44000000000000005A
+t1311287876
+s90
+
+N/Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib
+c000000004E28AE4E000000000002A150
+t1311288910
+s172368
+
+N/Users/iracooke/Sources/CollectionViewCoreData/ItemMO.h
+c000000004E27E2D80000000000000173
+t1311236824
+s371
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m
+c000000004E27DD52000000000000010B
+t1311235410
+s267
+i"ItemMO.h"
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData.LinkFileList
+c000000004E28AE5300000000000001D6
+t1311288915
+s470
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData_AppDelegate.o
+t1311288919
+s48876
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/ItemMO.o
+t1311288919
+s11004
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/main.o
+t1311288919
+s5016
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app
+t1311288920
+s102
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Info.plist
+t1311288915
+s1329
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData
+t1311288920
+s24648
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/PkgInfo
+t1311288915
+s8
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/CollectionViewCoreData_DataModel.mom
+t1311288919
+s1238
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1311288915
+s90
+
+N/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/MainMenu.nib
+t1311288915
+s34143
+
+N/Users/iracooke/Sources/CollectionViewCoreData/main.m
+c000000004E28AA44000000000000010A
+t1311287876
+s266
+i<Cocoa/Cocoa.h>
+
+N/var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch.gch
+t1311288919
+s54306576
+
+NCollectionViewCoreData-Info.plist
+c000000004E28AA4400000000000003F3
+t1311287876
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332981715#332981715#0(0"0(0#1#0"4861465825865789440#0"0#
+
+CCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData_AppDelegate.o /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332981719.503279
+e332981719.817837
+r1
+xCompileC
+xbuild/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData_AppDelegate.o
+x/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m332981719#332981719#0(0"0(0#0#83"/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m8604129248#1375"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/CollectionViewCoreData.hmap -F/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -I/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/include -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources/x86_64 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources -include /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch -c /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_AppDelegate.m -o /Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData_AppDelegate.o0#
+
+CCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/ItemMO.o /Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332981719.660223
+e332981719.799202
+r1
+xCompileC
+xbuild/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/ItemMO.o
+x/Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m332981719#332981719#0(0"0(0#0#55"/Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m8608883008#1319"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/CollectionViewCoreData.hmap -F/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -I/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/include -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources/x86_64 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources -include /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch -c /Users/iracooke/Sources/CollectionViewCoreData/ItemMO.m -o /Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/ItemMO.o0#
+
+CCompileC build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/main.o /Users/iracooke/Sources/CollectionViewCoreData/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332981719.422750
+e332981719.660106
+r1
+xCompileC
+xbuild/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/main.o
+x/Users/iracooke/Sources/CollectionViewCoreData/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/iracooke/Sources/CollectionViewCoreData/main.m332981719#332981719#0(0"0(0#0#53"/Users/iracooke/Sources/CollectionViewCoreData/main.m8604413728#1315"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/CollectionViewCoreData.hmap -F/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -I/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/include -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources/x86_64 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources -include /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch -c /Users/iracooke/Sources/CollectionViewCoreData/main.m -o /Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib
+s332981715.393828
+e332981715.686008
+r1
+xCompileXIB
+x/Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib332981715#332981715#0(0"0(0#0#73"/Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib8611269472#403"    cd /Users/iracooke/Sources/CollectionViewCoreData    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/MainMenu.nib /Users/iracooke/Sources/CollectionViewCoreData/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s332981715.377674
+e332981715.635425
+r1
+xCopyStringsFile
+x/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings332981715#332981715#0(0"0(0#0#78"/Users/iracooke/Sources/CollectionViewCoreData/English.lproj/InfoPlist.strings8619362944#397"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/CollectionViewCoreData_DataModel.mom /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel
+s332981719.421754
+e332981719.503179
+r1
+xDataModelCompile
+x/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/CollectionViewCoreData_DataModel.mom
+x/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel
+lSLF07#2@99"Compile /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel332981719#332981719#0(0"0(0#0#91"/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel8612320000#345"    cd /Users/iracooke/Sources/CollectionViewCoreData    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_DataModel.xcdatamodel /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Resources/CollectionViewCoreData_DataModel.mom0#
+
+CLd /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData normal x86_64
+s332981719.817921
+e332981720.960823
+r1
+xLd
+x/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData332981719#332981720#0(0"0(0#0#0"8612556384#657"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -F/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -filelist /Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/Objects-normal/x86_64/CollectionViewCoreData.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/MacOS/CollectionViewCoreData0#
+
+CProcessInfoPlistFile /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Info.plist CollectionViewCoreData-Info.plist
+s332981715.341244
+e332981715.377589
+r1
+xProcessInfoPlistFile
+x/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Info.plist
+xCollectionViewCoreData-Info.plist
+lSLF07#2@41"Process CollectionViewCoreData-Info.plist332981715#332981715#0(0"0(0#0#80"/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData-Info.plist18859025310417008#379"    cd /Users/iracooke/Sources/CollectionViewCoreData    builtin-infoPlistUtility CollectionViewCoreData-Info.plist -genpkginfo /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch.gch CollectionViewCoreData_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s332981715.686177
+e332981719.421492
+r1
+xProcessPCH
+x/var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch.gch
+xCollectionViewCoreData_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile CollectionViewCoreData_Prefix.pch332981715#332981719#0(0"0(0#0#80"/Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_Prefix.pch8618597376#1198"    cd /Users/iracooke/Sources/CollectionViewCoreData    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/CollectionViewCoreData.hmap -F/Users/iracooke/Sources/CollectionViewCoreData/build/Debug -I/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/include -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources/x86_64 -I/Users/iracooke/Sources/CollectionViewCoreData/build/CollectionViewCoreData.build/Debug/CollectionViewCoreData.build/DerivedSources -c /Users/iracooke/Sources/CollectionViewCoreData/CollectionViewCoreData_Prefix.pch -o /var/folders/vK/vKnLQ4lvF8i6in4CLliWm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CollectionViewCoreData_Prefix-dshcvzcsjhsbaeauayuwhqhwlxdm/CollectionViewCoreData_Prefix.pch.gch0#
+
+CTouch /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app
+s332981720.961029
+e332981720.964465
+r1
+xTouch
+x/Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app
+lSLF07#2@91"Touch /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app332981720#332981720#0(0"0(0#0#0"8618546496#162"    cd /Users/iracooke/Sources/CollectionViewCoreData    /usr/bin/touch -c /Users/iracooke/Sources/CollectionViewCoreData/build/Debug/CollectionViewCoreData.app0#
+
