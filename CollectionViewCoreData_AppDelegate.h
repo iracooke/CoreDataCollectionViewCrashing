@@ -12,8 +12,6 @@
 {
     NSWindow *window;
 	
-	NSMutableArray *itemsArray;
-	
 	IBOutlet NSArrayController *itemArrayController;
     
     NSPersistentStoreCoordinator *persistentStoreCoordinator;

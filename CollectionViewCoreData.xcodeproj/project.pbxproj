@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		2F7446990DB6B7EA00F9684A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F7446970DB6B7EA00F9684A /* MainMenu.xib */; };
 		758F9B8513D8E5640091D800 /* ItemMO.m in Sources */ = {isa = PBXBuildFile; fileRef = 758F9B8413D8E5640091D800 /* ItemMO.m */; };
-		758F9C4A13D94B400091D800 /* MFCollectionItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 758F9C4913D94B400091D800 /* MFCollectionItemView.m */; };
-		758F9C4D13D94B480091D800 /* MFCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 758F9C4C13D94B480091D800 /* MFCollectionView.m */; };
 		758F9CC013D9613E0091D800 /* Readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 758F9CBF13D9613E0091D800 /* Readme.rtf */; };
 		770B37ED0679A11B001EADE2 /* CollectionViewCoreData_DataModel.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 770B37EC0679A11B001EADE2 /* CollectionViewCoreData_DataModel.xcdatamodel */; };
 		77C8280E06725ACE000B614F /* CollectionViewCoreData_AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C8280C06725ACE000B614F /* CollectionViewCoreData_AppDelegate.m */; };
@@ -29,10 +27,6 @@
 		32CA4F630368D1EE00C91783 /* CollectionViewCoreData_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCoreData_Prefix.pch; sourceTree = "<group>"; };
 		758F9B8313D8E5640091D800 /* ItemMO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ItemMO.h; sourceTree = "<group>"; };
 		758F9B8413D8E5640091D800 /* ItemMO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemMO.m; sourceTree = "<group>"; };
-		758F9C4813D94B400091D800 /* MFCollectionItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFCollectionItemView.h; sourceTree = "<group>"; };
-		758F9C4913D94B400091D800 /* MFCollectionItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFCollectionItemView.m; sourceTree = "<group>"; };
-		758F9C4B13D94B480091D800 /* MFCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFCollectionView.h; sourceTree = "<group>"; };
-		758F9C4C13D94B480091D800 /* MFCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFCollectionView.m; sourceTree = "<group>"; };
 		758F9CBF13D9613E0091D800 /* Readme.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Readme.rtf; sourceTree = "<group>"; };
 		770B37EC0679A11B001EADE2 /* CollectionViewCoreData_DataModel.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = CollectionViewCoreData_DataModel.xcdatamodel; sourceTree = "<group>"; };
 		77C82804067257F0000B614F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
@@ -57,10 +51,6 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				758F9C4B13D94B480091D800 /* MFCollectionView.h */,
-				758F9C4C13D94B480091D800 /* MFCollectionView.m */,
-				758F9C4813D94B400091D800 /* MFCollectionItemView.h */,
-				758F9C4913D94B400091D800 /* MFCollectionItemView.m */,
 				758F9B8313D8E5640091D800 /* ItemMO.h */,
 				758F9B8413D8E5640091D800 /* ItemMO.m */,
 				77C8280B06725ACE000B614F /* CollectionViewCoreData_AppDelegate.h */,
@@ -212,8 +202,6 @@
 				77C8280E06725ACE000B614F /* CollectionViewCoreData_AppDelegate.m in Sources */,
 				770B37ED0679A11B001EADE2 /* CollectionViewCoreData_DataModel.xcdatamodel in Sources */,
 				758F9B8513D8E5640091D800 /* ItemMO.m in Sources */,
-				758F9C4A13D94B400091D800 /* MFCollectionItemView.m in Sources */,
-				758F9C4D13D94B480091D800 /* MFCollectionView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

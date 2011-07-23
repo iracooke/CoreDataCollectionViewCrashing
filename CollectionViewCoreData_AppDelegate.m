@@ -12,55 +12,24 @@
 @implementation CollectionViewCoreData_AppDelegate
 
 
-- (NSMutableArray*) itemsArray {
-	if ( !itemsArray )
-		itemsArray = [NSMutableArray new];
-	
-	return itemsArray;
-}
-
 
 - (ItemMO*) newItem {
     ItemMO *theItem = [NSEntityDescription insertNewObjectForEntityForName:@"Item" inManagedObjectContext:[self managedObjectContext]];
     return theItem;
 }
 
-
-- (void) updateItems {
-    
-	NSArray *items = [itemArrayController arrangedObjects];
-	
-	for( ItemMO* item in items){
-		double prog = [[item progress] doubleValue]+1.0;
-        [item setProgress:[NSNumber numberWithDouble:prog]];
-    }
-	
-	
-	
-}
-
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
 		// Insert code here to initialize your application
     
-	BOOL isODD = NO;
 	for ( int i =0;  i < 500 ; i++){
         
 		ItemMO *theItem = [self newItem];
 		[theItem setProgress:[NSNumber numberWithDouble:0]];
-
-		
-		if ( isODD ){
-			[theItem setIndeterminate:[NSNumber numberWithBool:NO]];
-		} else {
-			[theItem setAnimate:[NSNumber numberWithBool:YES]];
-		}
-		isODD=!isODD;
-		[[self itemsArray] addObject:theItem];
+        [theItem setAnimate:[NSNumber numberWithBool:YES]];
+        
     }
 	
-	[NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(updateItems) userInfo:nil repeats:YES];
-		//[self saveAction:self];
 }
 
 - (IBAction) clear:(id)sender {
@@ -280,7 +249,6 @@
     [managedObjectContext release];
     [persistentStoreCoordinator release];
     [managedObjectModel release];
-	[itemsArray release];
     [super dealloc];
 }
 
