@@ -49,7 +49,11 @@
 	
 	[itemArrayController removeObjects:objectsToRemove];
 	[itemArrayController rearrangeObjects];
-	[self saveAction:self];
+    
+    // This is done using "performSelector:withObject:afterDelay" to demonstrate that this issue could bite you if say you have a timer that runs a periodic save, or even if save is done by the user during an animation.
+    [self performSelector:@selector(saveAction:) withObject:self afterDelay:0.0];
+//	[self saveAction:self];
+
 	[objectsToRemove release];
 	
 }
